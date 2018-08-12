@@ -1,49 +1,4 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>无标题文档</title>
-<style type="text/css">
-#top {
-	background-image: url(images-sj/n1.jpg);
-	margin: auto;
-	height: 156px;
-	width: 1040px;
-}
-#content {
-	background-image: url(images-sj/n2.jpg);
-	margin: auto;
-	height: 570px;
-	width: 1040px;
-}
-#footer {
-	background-image: url(images-sj/n3.jpg);
-	margin: auto;
-	height: 256px;
-	width: 1040px;
-}
-.style1 {
-	font-family: "仿宋";
-	font-size: 40px;
-	background-position: center;
-	text-align: center;
-	color: #F00;
-}
-.style2 {
-	font-family: "华文仿宋";
-	font-size: 20px;
-	text-align: center;
-}
-.style3 {
-	font-family: "黑体";
-	font-size: 22px;
-	padding-right: 50px;
-	padding-left: 50px;
-}
-p
-{margin-top:0px;
-}
-</style>
 </head>
 
 <body>
